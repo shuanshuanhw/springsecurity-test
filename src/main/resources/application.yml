@@ -1,0 +1,4 @@
+server:
+  servlet:
+    session:
+      timeout: 600 # session超时时间为600秒
